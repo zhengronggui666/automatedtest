@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: WALATest
+Class-Path: libs\commons-io-2.4.jar libs\com.ibm.wala.core-1.5.4.jar lib
+ s\com.ibm.wala.shrike-1.5.4.jar libs\com.ibm.wala.util-1.5.4.jar libs\c
+ om.ibm.wala.cast-1.5.4.jar
+
